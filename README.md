@@ -2,6 +2,10 @@
 <img width="624" height="624" alt="ai_idea_generated_image" src="https://github.com/user-attachments/assets/8ca36122-c459-4f62-bdee-aeab02306454" />
 </p>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a8a16485bac7f4866f5c98762a28a54ceff209f4
 # AI IDEA GENERATOR
 
 As I dive into the Generative AI space I came up with this project idea to utilize AI to assist in creating other AI projects, initiatives, or efforts.

@@ -1,5 +1,9 @@
 # This file must be used with "source bin/activate.csh" *from csh*.
 # You cannot run it directly.
+<<<<<<< HEAD
+=======
+
+>>>>>>> a8a16485bac7f4866f5c98762a28a54ceff209f4
 # Created by Davide Di Blasi <davidedb@gmail.com>.
 # Ported to Python 3.3 venv by Andrew Svetlov <andrew.svetlov@gmail.com>
 

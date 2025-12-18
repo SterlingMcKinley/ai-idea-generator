@@ -1,5 +1,9 @@
 # This file must be used with "source <venv>/bin/activate.fish" *from fish*
+<<<<<<< HEAD
 # (https://fishshell.com/); you cannot run it directly.
+=======
+# (https://fishshell.com/). You cannot run it directly.
+>>>>>>> a8a16485bac7f4866f5c98762a28a54ceff209f4
 
 function deactivate  -d "Exit virtual environment and return to normal shell environment"
     # reset old environment variables
