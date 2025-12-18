@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="images/ai_idea_generated_image.PNG" style="max-width: 80%; height: auto;" width="500" alt="ai_idea_generated_image">
+<p align="center"> 
+<img width="524" height="424" alt="ai_idea_generated_image" src="https://github.com/user-attachments/assets/8ca36122-c459-4f62-bdee-aeab02306454" />
 </p>
 
 # AI IDEA GENERATOR
@@ -64,7 +64,7 @@ ai-idea-generator/
 - In your ai-idea-generator project folder, create a new file named .env (make sure it starts with a dot).
 - Open the .env file with a text editor and add the following line, replacing your_openai_api_key_here with the actual key you copied from OpenAI:
   OPENAI_API_KEY=your_openai_api_key_here
-    - **Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager**
+  - **Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager**
 
 4. Create the Streamlit Application (app.py)
    Create a file named app.py in your ai-idea-generator folder.
@@ -72,24 +72,22 @@ ai-idea-generator/
 5. Run Your Application
 
 - Activate Virtual Environment: Ensure your virtual environment is activated in your terminal. If not, navigate to your ai-idea-generator directory and run:
-  - On macOS/Linux: source venv/bin/activate
+  `source venv/bin/activate`
 - Run Streamlit: From your project directory in the terminal, run the following command:
   `streamlit run app.py`
 
-***Once you are done with tesing your web app locally, execute the command below to stop the virtual environment:***
+**_Once you are done with tesing your web app locally, execute the command below to stop the virtual environment:_**
 
-```deactivate```
+`deactivate`
 
-***Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager***
-
-
+**_Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager_**
 
 ### **AI IDEA GENERATOR - Web Application**
 
 <p align="center">
-  <img src="images/ai_idea_generated_image2.PNG" style="max-width: 80%; height: auto;" width="1000" alt="ai_idea_generated_image2">
+<img width="1697" height="724" alt="ai_idea_generated_image2" src="https://github.com/user-attachments/assets/9e65d050-fc9c-432a-b13e-db380f3967b2" />
 </p>
 
 <p align="center">
-  <img src="images/ai_idea_generated_image4.png" style="max-width: 80%; height: auto;" width="1000" alt="ai_idea_generated_image4">
+<img width="1697" height="724" alt="ai_idea_generated_image4" src="https://github.com/user-attachments/assets/f23afa00-c3fb-441f-a910-fd36f767d3b9" />
 </p>
