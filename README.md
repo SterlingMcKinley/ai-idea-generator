@@ -1,11 +1,7 @@
-<p align="center"> 
-<img width="624" height="624" alt="ai_idea_generated_image" src="https://github.com/user-attachments/assets/8ca36122-c459-4f62-bdee-aeab02306454" />
+<p align="center">
+  <img src="images/ai_idea_generated_image.PNG" style="max-width: 80%; height: auto;" width="500" alt="ai_idea_generated_image">
 </p>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> a8a16485bac7f4866f5c98762a28a54ceff209f4
 # AI IDEA GENERATOR
 
 As I dive into the Generative AI space I came up with this project idea to utilize AI to assist in creating other AI projects, initiatives, or efforts.
@@ -68,6 +64,7 @@ ai-idea-generator/
 - In your ai-idea-generator project folder, create a new file named .env (make sure it starts with a dot).
 - Open the .env file with a text editor and add the following line, replacing your_openai_api_key_here with the actual key you copied from OpenAI:
   OPENAI_API_KEY=your_openai_api_key_here
+    - **Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager**
 
 4. Create the Streamlit Application (app.py)
    Create a file named app.py in your ai-idea-generator folder.
@@ -79,4 +76,20 @@ ai-idea-generator/
 - Run Streamlit: From your project directory in the terminal, run the following command:
   `streamlit run app.py`
 
+***Once you are done with tesing your web app locally, execute the command below to stop the virtual environment:***
+
+```deactivate```
+
+***Please be sure to remove your OPENAI API KEY from .env file if you are pushing this project to a remote repo. OR store your OpenAI API Key in a secrets manager***
+
+
+
 ### **AI IDEA GENERATOR - Web Application**
+
+<p align="center">
+  <img src="images/ai_idea_generated_image2.PNG" style="max-width: 80%; height: auto;" width="1000" alt="ai_idea_generated_image2">
+</p>
+
+<p align="center">
+  <img src="images/ai_idea_generated_image4.png" style="max-width: 80%; height: auto;" width="1000" alt="ai_idea_generated_image4">
+</p>
